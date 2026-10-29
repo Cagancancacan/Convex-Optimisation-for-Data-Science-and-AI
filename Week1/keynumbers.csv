@@ -1,18 +1,18 @@
 key,value
-student_number,i1234567
-definition,"one line: your definition of 'well-diversified'"
-parameters,"parameter value(s) of your recommended portfolio"
-base_return,
-base_volatility,
-base_max_weight,
-base_n_eff,
-base_n_1pct,
-rec_return,
-rec_volatility,
-rec_max_weight,
-rec_n_eff,
-rec_n_1pct,
-oos_base_return,
-oos_base_volatility,
-oos_rec_return,
-oos_rec_volatility,
+student_number,i6194134
+definition,I believe a portfolio is well-diversified if the fund is optimising its risk to reward (expected return) ratio where risk is considered the volatility of the investments
+parameters,parameter value(s) of your recommended portfolio
+base_return,19.23
+base_volatility,17.36
+base_max_weight,60.3
+base_n_eff,2.39
+base_n_1pct,5
+rec_return,13.38
+rec_volatility,13.34
+rec_max_weight,25.11
+rec_n_eff,5.8
+rec_n_1pct,9
+oos_base_return,27.96
+oos_base_volatility,18.09
+oos_rec_return,16.69
+oos_rec_volatility,9.39
