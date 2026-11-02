@@ -1,0 +1,16 @@
+key,value
+student_number,i1234567
+class_sharpe,
+class_drawdown,
+class_loss,
+class_badmonths,
+implemented,
+recommended,
+rec_return,
+rec_volatility,
+rec_ratio,
+rec_max_drawdown,
+rec_worst_12m,
+rec_bad_months,
+rec_max_weight,
+rec_n_eff,
