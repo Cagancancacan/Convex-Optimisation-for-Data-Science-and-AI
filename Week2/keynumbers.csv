@@ -1,16 +1,16 @@
 key,value
-student_number,i1234567
-class_sharpe,
-class_drawdown,
-class_loss,
-class_badmonths,
-implemented,
-recommended,
-rec_return,
-rec_volatility,
-rec_ratio,
-rec_max_drawdown,
-rec_worst_12m,
-rec_bad_months,
-rec_max_weight,
-rec_n_eff,
+student_number,i6194134
+class_sharpe,convex after reformulation
+class_drawdown,convex after reformulation
+class_loss,convex
+class_badmonths,convex
+implemented,sharpe; badmonths
+recommended,badmonths
+rec_return,16.29
+rec_volatility,16.1
+rec_ratio,1.01
+rec_max_drawdown,22.1
+rec_worst_12m,-16.26
+rec_bad_months,8
+rec_max_weight,53.01
+rec_n_eff,2.44
