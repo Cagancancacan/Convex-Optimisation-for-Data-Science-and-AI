@@ -1,0 +1,15 @@
+key,value
+student_number,i6194134
+estimator,penalty;
+problem_class,LP
+sales_used,2006;2007;2008;2009
+n_features,67
+test_over_rate,22.87
+test_mae,18083
+test_mdape,8.61
+train_over_rate,22.40
+train_mae,17381
+train_mdape,6.94
+base_test_over_rate,45.75
+base_test_mae,15198
+base_test_mdape,7.08
