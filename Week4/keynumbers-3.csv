@@ -1,0 +1,15 @@
+key,value
+student_number,i1234567
+model,
+loss,
+multiclass,
+kernel,
+n_train,
+train_error,
+val_error,
+n_test,
+test_error,
+confused_pair,
+duality_gap,
+time_primal,
+time_dual,
