@@ -1,0 +1,15 @@
+key,value
+student_number,i6194134
+model,OvR squared-hinge SVM; RBF kernel with gamma=0.04 and C=30; chosen on 5000 validation images; solved via primal and dual
+loss,other
+multiclass,ovr
+kernel,rbf
+n_train,4000
+train_error,0.00
+val_error,4.51
+n_test,10000
+test_error,4.01
+confused_pair,2-7
+duality_gap,2.3e-06
+time_primal,1521.6
+time_dual,1353.4
