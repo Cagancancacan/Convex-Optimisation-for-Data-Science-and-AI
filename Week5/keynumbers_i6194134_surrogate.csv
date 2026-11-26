@@ -1,0 +1,16 @@
+key,value
+student_number,i6194134
+model,L1-regularised logistic regression (lambda=0.001) with a convex cap kappa=0.112 on the smoothed hinge surrogate of the false positive rate of each of the four race groups; threshold minimising training error
+fairness,no race group bears more unjustified checks than a common cap: surrogate false positive rate of every group among people with income <=50K bounded by kappa; race only used in the constraints
+problem_class,exponential cone
+race_used,no
+n_train,32561
+n_features,37
+test_error,15.23
+sel_rate,19.19
+dp_gap,14.59
+fpr_gap,6.36
+tpr_gap,13.91
+base_test_error,14.86
+base_dp_gap,18.66
+base_fpr_gap,9.02
