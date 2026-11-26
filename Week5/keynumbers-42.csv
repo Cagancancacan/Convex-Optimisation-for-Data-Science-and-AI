@@ -1,0 +1,16 @@
+key,value
+student_number,i1234567
+model,
+fairness,
+problem_class,
+race_used,
+n_train,
+n_features,
+test_error,
+sel_rate,
+dp_gap,
+fpr_gap,
+tpr_gap,
+base_test_error,
+base_dp_gap,
+base_fpr_gap,
